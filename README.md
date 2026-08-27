@@ -1,6 +1,6 @@
 # Market Risk VaR (Value at Risk) Estimation
 
-**ML-2 | ML Engineer Track | Difficulty: Medium**
+**ML-2 | ML Engineer Track |
 
 100% free and open-source tools only — no paid APIs, no credit card, runs on Google Colab's free tier.
 
